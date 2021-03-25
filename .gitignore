@@ -3,3 +3,6 @@
 ################################################################################
 
 /EstudoRabbitMQ/ConsoleConsumidor/bin/Debug/netcoreapp3.1
+/EstudoRabbitMQ/ConsoleConsumidor/obj
+/EstudoRabbitMQ/ConsoleProdutor/bin/Debug/netcoreapp3.1
+/EstudoRabbitMQ/ConsoleProdutor/obj
